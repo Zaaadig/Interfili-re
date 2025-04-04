@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.4",
+    "Name": "Projet_Interfiliere",
+    "Category": "",
+    "Description": "",
+    "Plugins": [
+        {
+            "Name": "ModelingToolsEditorMode",
+            "Enabled": true,
+            "TargetAllowList": [
+                "Editor"
+            ]
+        },
+        {
+            "Name": "HDRIBackdrop",
+            "Enabled": true
+        },
+        {
+            "Name": "ElectraPlayer",
+            "Enabled": true
+        }
+    ]
+}
